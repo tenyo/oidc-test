@@ -1,0 +1,4 @@
+oauth:
+  issuerUrl: "https://accounts.google.com"
+  clientID: "REPLACE"
+  clientSecret: "REPLACE"
